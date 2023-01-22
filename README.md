@@ -1,0 +1,2 @@
+# logica
+meu primeiro repositorio
